@@ -1,0 +1,238 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy - Roku TV</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.7;
+      margin: 0;
+      padding: 0;
+      background: #0b0b0b;
+      color: #f2f2f2;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    h1, h2 {
+      color: #ffffff;
+    }
+
+    h1 {
+      font-size: 34px;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      margin-top: 32px;
+      font-size: 22px;
+      border-left: 4px solid #e50914;
+      padding-left: 12px;
+    }
+
+    p, li {
+      color: #dddddd;
+      font-size: 16px;
+    }
+
+    a {
+      color: #ff3333;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .updated {
+      color: #aaaaaa;
+      margin-bottom: 30px;
+    }
+
+    .box {
+      background: #151515;
+      border: 1px solid #2a2a2a;
+      border-radius: 12px;
+      padding: 20px;
+      margin-top: 20px;
+    }
+
+    footer {
+      margin-top: 50px;
+      padding-top: 20px;
+      border-top: 1px solid #333;
+      color: #999;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <h1>Privacy Policy</h1>
+    <p class="updated">Last updated: June 3, 2026</p>
+
+    <div class="box">
+      <p>
+        This Privacy Policy explains how <strong>Roku TV</strong> collects, uses,
+        and protects information when you use our mobile application.
+      </p>
+      <p>
+        Roku TV is a movie discovery application. The app helps users discover
+        movies, view movie information, explore recommendations, and organize
+        titles they may want to watch later. Roku TV does not provide movie
+        streaming, movie downloads, or copyrighted video content.
+      </p>
+    </div>
+
+    <h2>1. Information We Collect</h2>
+    <p>
+      Roku TV does not require users to create an account and does not directly
+      collect personal information such as name, email address, phone number, or
+      payment information.
+    </p>
+    <p>
+      However, some information may be collected automatically through third-party
+      services used inside the app, including advertising services.
+    </p>
+
+    <h2>2. Information Collected Automatically</h2>
+    <p>
+      When you use the app, certain technical information may be collected
+      automatically, such as:
+    </p>
+    <ul>
+      <li>Device type and model</li>
+      <li>Operating system version</li>
+      <li>App usage information</li>
+      <li>Advertising identifiers</li>
+      <li>Approximate location information</li>
+      <li>Crash logs and performance data</li>
+    </ul>
+    <p>
+      This information may be used to improve app performance, show ads, prevent
+      fraud, and understand how users interact with the app.
+    </p>
+
+    <h2>3. Third-Party Advertising</h2>
+    <p>
+      Roku TV uses third-party advertising services to display ads in the app.
+      These services may collect and use certain information to provide,
+      personalize, and measure ads.
+    </p>
+
+    <h2>4. AppLovin</h2>
+    <p>
+      Roku TV uses AppLovin advertising services. AppLovin may collect and use
+      information from your device for advertising, analytics, fraud prevention,
+      and related purposes.
+    </p>
+    <p>
+      For more information about AppLovin’s collection and use of your information,
+      please visit:
+      <a href="https://legal.applovin.com/privacy/" target="_blank" rel="noopener noreferrer">
+        https://legal.applovin.com/privacy/
+      </a>
+    </p>
+
+    <h2>5. How We Use Information</h2>
+    <p>
+      Information collected through the app or third-party services may be used to:
+    </p>
+    <ul>
+      <li>Provide and improve the app experience</li>
+      <li>Display advertisements</li>
+      <li>Measure ad performance</li>
+      <li>Analyze app usage and performance</li>
+      <li>Detect, prevent, and address technical issues or fraud</li>
+      <li>Comply with legal obligations</li>
+    </ul>
+
+    <h2>6. Movie Information</h2>
+    <p>
+      Roku TV may display movie-related information such as titles, posters,
+      ratings, genres, release dates, descriptions, and recommendations. This
+      information is used only to help users discover and organize movies.
+    </p>
+    <p>
+      Roku TV does not host, stream, sell, or distribute movies or video content.
+    </p>
+
+    <h2>7. Cookies and Similar Technologies</h2>
+    <p>
+      The app itself may not use browser cookies. However, third-party services,
+      including advertising providers, may use similar technologies such as
+      device identifiers, SDKs, and tracking technologies to provide and measure
+      ads.
+    </p>
+
+    <h2>8. Children’s Privacy</h2>
+    <p>
+      Roku TV is not intended for children under the age of 13. We do not
+      knowingly collect personal information from children under 13. If you
+      believe that a child has provided us with personal information, please
+      contact us so we can take appropriate action.
+    </p>
+
+    <h2>9. Data Sharing</h2>
+    <p>
+      We do not sell personal information directly. However, third-party
+      advertising services may collect and process data according to their own
+      privacy policies. Information may be shared with service providers that help
+      operate, improve, analyze, or monetize the app.
+    </p>
+
+    <h2>10. Your Privacy Choices</h2>
+    <p>
+      Depending on your device and location, you may have privacy choices such as:
+    </p>
+    <ul>
+      <li>Resetting your advertising ID from your device settings</li>
+      <li>Limiting ad personalization from your device settings</li>
+      <li>Managing consent choices where available</li>
+      <li>Requesting information or deletion where applicable by law</li>
+    </ul>
+
+    <h2>11. Data Security</h2>
+    <p>
+      We take reasonable steps to protect information associated with the app.
+      However, no method of electronic transmission or storage is completely
+      secure, and we cannot guarantee absolute security.
+    </p>
+
+    <h2>12. Links to Third-Party Services</h2>
+    <p>
+      The app may contain links or references to third-party services. We are not
+      responsible for the privacy practices, content, or policies of third-party
+      websites or services.
+    </p>
+
+    <h2>13. Changes to This Privacy Policy</h2>
+    <p>
+      We may update this Privacy Policy from time to time. Any changes will be
+      posted on this page with an updated “Last updated” date. Your continued use
+      of the app after changes are posted means you accept the updated policy.
+    </p>
+
+    <h2>14. Contact Us</h2>
+    <p>
+      If you have any questions about this Privacy Policy, you can contact us at:
+    </p>
+    <p>
+      <strong>Email:</strong>
+      <a href="mailto:Roku.TV@gmail.com">Roku.TV@gmail.com</a>
+    </p>
+
+    <footer>
+      <p>&copy; 2026 Roku TV. All rights reserved.</p>
+    </footer>
+  </main>
+</body>
+</html>
+```
